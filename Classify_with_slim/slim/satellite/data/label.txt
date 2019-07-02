@@ -1,0 +1,6 @@
+glacier
+wood
+water
+rock
+wetland
+urban

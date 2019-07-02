@@ -1,0 +1,22 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>000001</filename>
+    <size>
+        <width>668</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>digger</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>328</xmin>
+            <ymin>245</ymin>
+            <xmax>348</xmax>
+            <ymax>268</ymax>
+        </bndbox>
+    </object>
+</annotation>
